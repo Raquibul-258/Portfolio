@@ -71,9 +71,22 @@ p, h3, h5 {font-family: "Quattrocento Sans", sans-serif;
 .nav-item { 
     font-family: "Quattrocento Sans", sans-serif;
     font-optical-sizing: auto;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     font-style: regular;}
+
+    .offcanvas-body ul li:last-child {margin-bottom: 30px;}
+
+.offcanvas-body ul li a {text-decoration: underline;
+  display: block;
+  color: #F5B50F;
+  font-size: 16px;
+  font-weight: 400;
+  max-height: 600px;
+
+
+
+}
         
  
  
